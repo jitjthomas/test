@@ -1,0 +1,6 @@
+<project name="ant-test" basedir="."> 
+<exec executable="/bin/sh">
+  <arg value="-c" />
+  <arg value="git status" />
+</exec>
+</project>
